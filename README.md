@@ -1,2 +1,3 @@
-# test-project-for-afattahi
-this is a project for test.
+# blog-site-for-afattahi-creating-with-php
+
+this is a blog creating with php and mysql.
